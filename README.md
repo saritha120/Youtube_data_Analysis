@@ -1,7 +1,7 @@
 End-to-End Data Engineering Project on YouTube Data
 
 Project Description:
-This project involves creating an end-to-end Data Engineering solution focused on YouTube data. The goal is to gain a deeper understanding of the ETL process by utilizing Python, PySpark, basic SQL, and AWS tools such as S3, Glue, Lambda, Athena, and Redshift. The project is designed to build practical, hands-on experience in data engineering.
+This project involves creating an end-to-end Data Engineering solution focused on YouTube data. The goal is to gain a deeper understanding of the ETL process and Data Visulization by utilizing Python, PySpark, basic SQL, and AWS tools such as S3, Glue, Lambda, Athena, QuickSight and Redshift. The project is designed to build practical, hands-on experience in data engineering.
 
 Project Overview:
 This project is about securely organizing and analyzing structured and semi-structured YouTube data, based on video categories and trending metrics.
@@ -26,7 +26,7 @@ Data Ingestion — Process of moving data from multiple sources into a storage m
 ETL System — Process of Extracting raw data and transforming into desired format and storing the data in target source.
 Data lake — Central Repositary to store our raw data or data from multiple sources which is S3 in our project.
 Scalability — As the size of our data increases, we need to make sure our system scales with it.
-Cloud — We can’t process vast amounts of data on our local computer so we need to use the cloud, in this case, we will use AWS
+Cloud — We can’t process vast amounts of data on our local computer so we need to use the cloud, in this case, we will use AWS.
 Reporting — Build a dashboard to get answers to the question we asked earlier
 
 
